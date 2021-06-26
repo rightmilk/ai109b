@@ -10,7 +10,7 @@
 課程內容 | https://gitlab.com/ccc109/ai
 
 週次 |
----- 
+---- |
 [第一週](./note/week01.md)|
 [第二週](./note/week02.md)|
 [第三週](./note/week03.md)|
